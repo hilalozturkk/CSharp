@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/Conditional/bin/Debug/net5.0/Conditional
+/home/hilal/Desktop/cSharp/Conditional/bin/Debug/net5.0/Conditional.deps.json
+/home/hilal/Desktop/cSharp/Conditional/bin/Debug/net5.0/Conditional.runtimeconfig.json
+/home/hilal/Desktop/cSharp/Conditional/bin/Debug/net5.0/Conditional.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/Conditional/bin/Debug/net5.0/Conditional.dll
+/home/hilal/Desktop/cSharp/Conditional/bin/Debug/net5.0/ref/Conditional.dll
+/home/hilal/Desktop/cSharp/Conditional/bin/Debug/net5.0/Conditional.pdb
+/home/hilal/Desktop/cSharp/Conditional/obj/Debug/net5.0/Conditional.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/Conditional/obj/Debug/net5.0/Conditional.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/Conditional/obj/Debug/net5.0/Conditional.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/Conditional/obj/Debug/net5.0/Conditional.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/Conditional/obj/Debug/net5.0/Conditional.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/Conditional/obj/Debug/net5.0/Conditional.dll
+/home/hilal/Desktop/cSharp/Conditional/obj/Debug/net5.0/ref/Conditional.dll
+/home/hilal/Desktop/cSharp/Conditional/obj/Debug/net5.0/Conditional.pdb
+/home/hilal/Desktop/cSharp/Conditional/obj/Debug/net5.0/Conditional.genruntimeconfig.cache

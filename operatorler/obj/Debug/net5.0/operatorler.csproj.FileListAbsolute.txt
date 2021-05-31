@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/operatorler/bin/Debug/net5.0/operatorler
+/home/hilal/Desktop/cSharp/operatorler/bin/Debug/net5.0/operatorler.deps.json
+/home/hilal/Desktop/cSharp/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.json
+/home/hilal/Desktop/cSharp/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/operatorler/bin/Debug/net5.0/operatorler.dll
+/home/hilal/Desktop/cSharp/operatorler/bin/Debug/net5.0/ref/operatorler.dll
+/home/hilal/Desktop/cSharp/operatorler/bin/Debug/net5.0/operatorler.pdb
+/home/hilal/Desktop/cSharp/operatorler/obj/Debug/net5.0/operatorler.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/operatorler/obj/Debug/net5.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/operatorler/obj/Debug/net5.0/operatorler.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/operatorler/obj/Debug/net5.0/operatorler.dll
+/home/hilal/Desktop/cSharp/operatorler/obj/Debug/net5.0/ref/operatorler.dll
+/home/hilal/Desktop/cSharp/operatorler/obj/Debug/net5.0/operatorler.pdb
+/home/hilal/Desktop/cSharp/operatorler/obj/Debug/net5.0/operatorler.genruntimeconfig.cache

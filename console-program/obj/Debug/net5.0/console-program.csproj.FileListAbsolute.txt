@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/console-program/bin/Debug/net5.0/console-program
+/home/hilal/Desktop/cSharp/console-program/bin/Debug/net5.0/console-program.deps.json
+/home/hilal/Desktop/cSharp/console-program/bin/Debug/net5.0/console-program.runtimeconfig.json
+/home/hilal/Desktop/cSharp/console-program/bin/Debug/net5.0/console-program.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/console-program/bin/Debug/net5.0/console-program.dll
+/home/hilal/Desktop/cSharp/console-program/bin/Debug/net5.0/ref/console-program.dll
+/home/hilal/Desktop/cSharp/console-program/bin/Debug/net5.0/console-program.pdb
+/home/hilal/Desktop/cSharp/console-program/obj/Debug/net5.0/console-program.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/console-program/obj/Debug/net5.0/console-program.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/console-program/obj/Debug/net5.0/console-program.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/console-program/obj/Debug/net5.0/console-program.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/console-program/obj/Debug/net5.0/console-program.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/console-program/obj/Debug/net5.0/console-program.dll
+/home/hilal/Desktop/cSharp/console-program/obj/Debug/net5.0/ref/console-program.dll
+/home/hilal/Desktop/cSharp/console-program/obj/Debug/net5.0/console-program.pdb
+/home/hilal/Desktop/cSharp/console-program/obj/Debug/net5.0/console-program.genruntimeconfig.cache

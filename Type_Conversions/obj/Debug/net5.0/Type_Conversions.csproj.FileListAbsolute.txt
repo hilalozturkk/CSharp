@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/Type_Conversions/bin/Debug/net5.0/Type_Conversions
+/home/hilal/Desktop/cSharp/Type_Conversions/bin/Debug/net5.0/Type_Conversions.deps.json
+/home/hilal/Desktop/cSharp/Type_Conversions/bin/Debug/net5.0/Type_Conversions.runtimeconfig.json
+/home/hilal/Desktop/cSharp/Type_Conversions/bin/Debug/net5.0/Type_Conversions.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/Type_Conversions/bin/Debug/net5.0/Type_Conversions.dll
+/home/hilal/Desktop/cSharp/Type_Conversions/bin/Debug/net5.0/ref/Type_Conversions.dll
+/home/hilal/Desktop/cSharp/Type_Conversions/bin/Debug/net5.0/Type_Conversions.pdb
+/home/hilal/Desktop/cSharp/Type_Conversions/obj/Debug/net5.0/Type_Conversions.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/Type_Conversions/obj/Debug/net5.0/Type_Conversions.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/Type_Conversions/obj/Debug/net5.0/Type_Conversions.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/Type_Conversions/obj/Debug/net5.0/Type_Conversions.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/Type_Conversions/obj/Debug/net5.0/Type_Conversions.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/Type_Conversions/obj/Debug/net5.0/Type_Conversions.dll
+/home/hilal/Desktop/cSharp/Type_Conversions/obj/Debug/net5.0/ref/Type_Conversions.dll
+/home/hilal/Desktop/cSharp/Type_Conversions/obj/Debug/net5.0/Type_Conversions.pdb
+/home/hilal/Desktop/cSharp/Type_Conversions/obj/Debug/net5.0/Type_Conversions.genruntimeconfig.cache

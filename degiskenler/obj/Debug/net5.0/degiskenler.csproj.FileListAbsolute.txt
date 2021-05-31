@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/degiskenler/bin/Debug/net5.0/degiskenler
+/home/hilal/Desktop/cSharp/degiskenler/bin/Debug/net5.0/degiskenler.deps.json
+/home/hilal/Desktop/cSharp/degiskenler/bin/Debug/net5.0/degiskenler.runtimeconfig.json
+/home/hilal/Desktop/cSharp/degiskenler/bin/Debug/net5.0/degiskenler.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/degiskenler/bin/Debug/net5.0/degiskenler.dll
+/home/hilal/Desktop/cSharp/degiskenler/bin/Debug/net5.0/ref/degiskenler.dll
+/home/hilal/Desktop/cSharp/degiskenler/bin/Debug/net5.0/degiskenler.pdb
+/home/hilal/Desktop/cSharp/degiskenler/obj/Debug/net5.0/degiskenler.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/degiskenler/obj/Debug/net5.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/degiskenler/obj/Debug/net5.0/degiskenler.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/degiskenler/obj/Debug/net5.0/degiskenler.dll
+/home/hilal/Desktop/cSharp/degiskenler/obj/Debug/net5.0/ref/degiskenler.dll
+/home/hilal/Desktop/cSharp/degiskenler/obj/Debug/net5.0/degiskenler.pdb
+/home/hilal/Desktop/cSharp/degiskenler/obj/Debug/net5.0/degiskenler.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/switch-case/bin/Debug/net5.0/switch-case
+/home/hilal/Desktop/cSharp/switch-case/bin/Debug/net5.0/switch-case.deps.json
+/home/hilal/Desktop/cSharp/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.json
+/home/hilal/Desktop/cSharp/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/switch-case/bin/Debug/net5.0/switch-case.dll
+/home/hilal/Desktop/cSharp/switch-case/bin/Debug/net5.0/ref/switch-case.dll
+/home/hilal/Desktop/cSharp/switch-case/bin/Debug/net5.0/switch-case.pdb
+/home/hilal/Desktop/cSharp/switch-case/obj/Debug/net5.0/switch-case.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/switch-case/obj/Debug/net5.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/switch-case/obj/Debug/net5.0/switch-case.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/switch-case/obj/Debug/net5.0/switch-case.dll
+/home/hilal/Desktop/cSharp/switch-case/obj/Debug/net5.0/ref/switch-case.dll
+/home/hilal/Desktop/cSharp/switch-case/obj/Debug/net5.0/switch-case.pdb
+/home/hilal/Desktop/cSharp/switch-case/obj/Debug/net5.0/switch-case.genruntimeconfig.cache

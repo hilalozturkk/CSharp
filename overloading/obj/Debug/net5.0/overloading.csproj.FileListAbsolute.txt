@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/overloading/bin/Debug/net5.0/overloading
+/home/hilal/Desktop/cSharp/overloading/bin/Debug/net5.0/overloading.deps.json
+/home/hilal/Desktop/cSharp/overloading/bin/Debug/net5.0/overloading.runtimeconfig.json
+/home/hilal/Desktop/cSharp/overloading/bin/Debug/net5.0/overloading.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/overloading/bin/Debug/net5.0/overloading.dll
+/home/hilal/Desktop/cSharp/overloading/bin/Debug/net5.0/ref/overloading.dll
+/home/hilal/Desktop/cSharp/overloading/bin/Debug/net5.0/overloading.pdb
+/home/hilal/Desktop/cSharp/overloading/obj/Debug/net5.0/overloading.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/overloading/obj/Debug/net5.0/overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/overloading/obj/Debug/net5.0/overloading.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/overloading/obj/Debug/net5.0/overloading.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/overloading/obj/Debug/net5.0/overloading.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/overloading/obj/Debug/net5.0/overloading.dll
+/home/hilal/Desktop/cSharp/overloading/obj/Debug/net5.0/ref/overloading.dll
+/home/hilal/Desktop/cSharp/overloading/obj/Debug/net5.0/overloading.pdb
+/home/hilal/Desktop/cSharp/overloading/obj/Debug/net5.0/overloading.genruntimeconfig.cache

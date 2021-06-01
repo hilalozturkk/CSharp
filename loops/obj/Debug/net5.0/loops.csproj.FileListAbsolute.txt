@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/loops/bin/Debug/net5.0/loops
+/home/hilal/Desktop/cSharp/loops/bin/Debug/net5.0/loops.deps.json
+/home/hilal/Desktop/cSharp/loops/bin/Debug/net5.0/loops.runtimeconfig.json
+/home/hilal/Desktop/cSharp/loops/bin/Debug/net5.0/loops.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/loops/bin/Debug/net5.0/loops.dll
+/home/hilal/Desktop/cSharp/loops/bin/Debug/net5.0/ref/loops.dll
+/home/hilal/Desktop/cSharp/loops/bin/Debug/net5.0/loops.pdb
+/home/hilal/Desktop/cSharp/loops/obj/Debug/net5.0/loops.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/loops/obj/Debug/net5.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/loops/obj/Debug/net5.0/loops.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/loops/obj/Debug/net5.0/loops.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/loops/obj/Debug/net5.0/loops.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/loops/obj/Debug/net5.0/loops.dll
+/home/hilal/Desktop/cSharp/loops/obj/Debug/net5.0/ref/loops.dll
+/home/hilal/Desktop/cSharp/loops/obj/Debug/net5.0/loops.pdb
+/home/hilal/Desktop/cSharp/loops/obj/Debug/net5.0/loops.genruntimeconfig.cache

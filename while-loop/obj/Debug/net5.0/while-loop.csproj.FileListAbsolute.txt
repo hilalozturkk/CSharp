@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/while-loop/bin/Debug/net5.0/while-loop
+/home/hilal/Desktop/cSharp/while-loop/bin/Debug/net5.0/while-loop.deps.json
+/home/hilal/Desktop/cSharp/while-loop/bin/Debug/net5.0/while-loop.runtimeconfig.json
+/home/hilal/Desktop/cSharp/while-loop/bin/Debug/net5.0/while-loop.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/while-loop/bin/Debug/net5.0/while-loop.dll
+/home/hilal/Desktop/cSharp/while-loop/bin/Debug/net5.0/ref/while-loop.dll
+/home/hilal/Desktop/cSharp/while-loop/bin/Debug/net5.0/while-loop.pdb
+/home/hilal/Desktop/cSharp/while-loop/obj/Debug/net5.0/while-loop.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/while-loop/obj/Debug/net5.0/while-loop.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/while-loop/obj/Debug/net5.0/while-loop.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/while-loop/obj/Debug/net5.0/while-loop.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/while-loop/obj/Debug/net5.0/while-loop.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/while-loop/obj/Debug/net5.0/while-loop.dll
+/home/hilal/Desktop/cSharp/while-loop/obj/Debug/net5.0/ref/while-loop.dll
+/home/hilal/Desktop/cSharp/while-loop/obj/Debug/net5.0/while-loop.pdb
+/home/hilal/Desktop/cSharp/while-loop/obj/Debug/net5.0/while-loop.genruntimeconfig.cache

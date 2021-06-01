@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/error_handling/bin/Debug/net5.0/error_handling
+/home/hilal/Desktop/cSharp/error_handling/bin/Debug/net5.0/error_handling.deps.json
+/home/hilal/Desktop/cSharp/error_handling/bin/Debug/net5.0/error_handling.runtimeconfig.json
+/home/hilal/Desktop/cSharp/error_handling/bin/Debug/net5.0/error_handling.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/error_handling/bin/Debug/net5.0/error_handling.dll
+/home/hilal/Desktop/cSharp/error_handling/bin/Debug/net5.0/ref/error_handling.dll
+/home/hilal/Desktop/cSharp/error_handling/bin/Debug/net5.0/error_handling.pdb
+/home/hilal/Desktop/cSharp/error_handling/obj/Debug/net5.0/error_handling.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/error_handling/obj/Debug/net5.0/error_handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/error_handling/obj/Debug/net5.0/error_handling.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/error_handling/obj/Debug/net5.0/error_handling.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/error_handling/obj/Debug/net5.0/error_handling.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/error_handling/obj/Debug/net5.0/error_handling.dll
+/home/hilal/Desktop/cSharp/error_handling/obj/Debug/net5.0/ref/error_handling.dll
+/home/hilal/Desktop/cSharp/error_handling/obj/Debug/net5.0/error_handling.pdb
+/home/hilal/Desktop/cSharp/error_handling/obj/Debug/net5.0/error_handling.genruntimeconfig.cache

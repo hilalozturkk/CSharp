@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/Odev1/bin/Debug/net5.0/Odev1
+/home/hilal/Desktop/cSharp/Odev1/bin/Debug/net5.0/Odev1.deps.json
+/home/hilal/Desktop/cSharp/Odev1/bin/Debug/net5.0/Odev1.runtimeconfig.json
+/home/hilal/Desktop/cSharp/Odev1/bin/Debug/net5.0/Odev1.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/Odev1/bin/Debug/net5.0/Odev1.dll
+/home/hilal/Desktop/cSharp/Odev1/bin/Debug/net5.0/ref/Odev1.dll
+/home/hilal/Desktop/cSharp/Odev1/bin/Debug/net5.0/Odev1.pdb
+/home/hilal/Desktop/cSharp/Odev1/obj/Debug/net5.0/Odev1.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/Odev1/obj/Debug/net5.0/Odev1.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/Odev1/obj/Debug/net5.0/Odev1.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/Odev1/obj/Debug/net5.0/Odev1.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/Odev1/obj/Debug/net5.0/Odev1.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/Odev1/obj/Debug/net5.0/Odev1.dll
+/home/hilal/Desktop/cSharp/Odev1/obj/Debug/net5.0/ref/Odev1.dll
+/home/hilal/Desktop/cSharp/Odev1/obj/Debug/net5.0/Odev1.pdb
+/home/hilal/Desktop/cSharp/Odev1/obj/Debug/net5.0/Odev1.genruntimeconfig.cache

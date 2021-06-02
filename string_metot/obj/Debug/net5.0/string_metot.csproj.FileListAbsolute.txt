@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/string_metot/bin/Debug/net5.0/string_metot
+/home/hilal/Desktop/cSharp/string_metot/bin/Debug/net5.0/string_metot.deps.json
+/home/hilal/Desktop/cSharp/string_metot/bin/Debug/net5.0/string_metot.runtimeconfig.json
+/home/hilal/Desktop/cSharp/string_metot/bin/Debug/net5.0/string_metot.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/string_metot/bin/Debug/net5.0/string_metot.dll
+/home/hilal/Desktop/cSharp/string_metot/bin/Debug/net5.0/ref/string_metot.dll
+/home/hilal/Desktop/cSharp/string_metot/bin/Debug/net5.0/string_metot.pdb
+/home/hilal/Desktop/cSharp/string_metot/obj/Debug/net5.0/string_metot.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/string_metot/obj/Debug/net5.0/string_metot.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/string_metot/obj/Debug/net5.0/string_metot.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/string_metot/obj/Debug/net5.0/string_metot.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/string_metot/obj/Debug/net5.0/string_metot.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/string_metot/obj/Debug/net5.0/string_metot.dll
+/home/hilal/Desktop/cSharp/string_metot/obj/Debug/net5.0/ref/string_metot.dll
+/home/hilal/Desktop/cSharp/string_metot/obj/Debug/net5.0/string_metot.pdb
+/home/hilal/Desktop/cSharp/string_metot/obj/Debug/net5.0/string_metot.genruntimeconfig.cache

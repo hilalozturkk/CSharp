@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/bin/Debug/net5.0/rekursif_extension_metot
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/bin/Debug/net5.0/rekursif_extension_metot.deps.json
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/bin/Debug/net5.0/rekursif_extension_metot.runtimeconfig.json
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/bin/Debug/net5.0/rekursif_extension_metot.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/bin/Debug/net5.0/rekursif_extension_metot.dll
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/bin/Debug/net5.0/ref/rekursif_extension_metot.dll
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/bin/Debug/net5.0/rekursif_extension_metot.pdb
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/obj/Debug/net5.0/rekursif_extension_metot.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/obj/Debug/net5.0/rekursif_extension_metot.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/obj/Debug/net5.0/rekursif_extension_metot.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/obj/Debug/net5.0/rekursif_extension_metot.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/obj/Debug/net5.0/rekursif_extension_metot.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/obj/Debug/net5.0/rekursif_extension_metot.dll
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/obj/Debug/net5.0/ref/rekursif_extension_metot.dll
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/obj/Debug/net5.0/rekursif_extension_metot.pdb
+/home/hilal/Desktop/cSharp/rekursif_extension_metot/obj/Debug/net5.0/rekursif_extension_metot.genruntimeconfig.cache

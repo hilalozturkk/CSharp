@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/arrayList/bin/Debug/net5.0/arrayList
+/home/hilal/Desktop/cSharp/arrayList/bin/Debug/net5.0/arrayList.deps.json
+/home/hilal/Desktop/cSharp/arrayList/bin/Debug/net5.0/arrayList.runtimeconfig.json
+/home/hilal/Desktop/cSharp/arrayList/bin/Debug/net5.0/arrayList.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/arrayList/bin/Debug/net5.0/arrayList.dll
+/home/hilal/Desktop/cSharp/arrayList/bin/Debug/net5.0/ref/arrayList.dll
+/home/hilal/Desktop/cSharp/arrayList/bin/Debug/net5.0/arrayList.pdb
+/home/hilal/Desktop/cSharp/arrayList/obj/Debug/net5.0/arrayList.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/arrayList/obj/Debug/net5.0/arrayList.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/arrayList/obj/Debug/net5.0/arrayList.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/arrayList/obj/Debug/net5.0/arrayList.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/arrayList/obj/Debug/net5.0/arrayList.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/arrayList/obj/Debug/net5.0/arrayList.dll
+/home/hilal/Desktop/cSharp/arrayList/obj/Debug/net5.0/ref/arrayList.dll
+/home/hilal/Desktop/cSharp/arrayList/obj/Debug/net5.0/arrayList.pdb
+/home/hilal/Desktop/cSharp/arrayList/obj/Debug/net5.0/arrayList.genruntimeconfig.cache

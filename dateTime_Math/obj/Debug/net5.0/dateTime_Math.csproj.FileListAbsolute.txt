@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/dateTime_Math/bin/Debug/net5.0/dateTime_Math
+/home/hilal/Desktop/cSharp/dateTime_Math/bin/Debug/net5.0/dateTime_Math.deps.json
+/home/hilal/Desktop/cSharp/dateTime_Math/bin/Debug/net5.0/dateTime_Math.runtimeconfig.json
+/home/hilal/Desktop/cSharp/dateTime_Math/bin/Debug/net5.0/dateTime_Math.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/dateTime_Math/bin/Debug/net5.0/dateTime_Math.dll
+/home/hilal/Desktop/cSharp/dateTime_Math/bin/Debug/net5.0/ref/dateTime_Math.dll
+/home/hilal/Desktop/cSharp/dateTime_Math/bin/Debug/net5.0/dateTime_Math.pdb
+/home/hilal/Desktop/cSharp/dateTime_Math/obj/Debug/net5.0/dateTime_Math.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/dateTime_Math/obj/Debug/net5.0/dateTime_Math.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/dateTime_Math/obj/Debug/net5.0/dateTime_Math.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/dateTime_Math/obj/Debug/net5.0/dateTime_Math.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/dateTime_Math/obj/Debug/net5.0/dateTime_Math.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/dateTime_Math/obj/Debug/net5.0/dateTime_Math.dll
+/home/hilal/Desktop/cSharp/dateTime_Math/obj/Debug/net5.0/ref/dateTime_Math.dll
+/home/hilal/Desktop/cSharp/dateTime_Math/obj/Debug/net5.0/dateTime_Math.pdb
+/home/hilal/Desktop/cSharp/dateTime_Math/obj/Debug/net5.0/dateTime_Math.genruntimeconfig.cache

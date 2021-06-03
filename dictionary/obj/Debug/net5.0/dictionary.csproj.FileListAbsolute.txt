@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/dictionary/bin/Debug/net5.0/dictionary
+/home/hilal/Desktop/cSharp/dictionary/bin/Debug/net5.0/dictionary.deps.json
+/home/hilal/Desktop/cSharp/dictionary/bin/Debug/net5.0/dictionary.runtimeconfig.json
+/home/hilal/Desktop/cSharp/dictionary/bin/Debug/net5.0/dictionary.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/dictionary/bin/Debug/net5.0/dictionary.dll
+/home/hilal/Desktop/cSharp/dictionary/bin/Debug/net5.0/ref/dictionary.dll
+/home/hilal/Desktop/cSharp/dictionary/bin/Debug/net5.0/dictionary.pdb
+/home/hilal/Desktop/cSharp/dictionary/obj/Debug/net5.0/dictionary.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/dictionary/obj/Debug/net5.0/dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/dictionary/obj/Debug/net5.0/dictionary.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/dictionary/obj/Debug/net5.0/dictionary.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/dictionary/obj/Debug/net5.0/dictionary.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/dictionary/obj/Debug/net5.0/dictionary.dll
+/home/hilal/Desktop/cSharp/dictionary/obj/Debug/net5.0/ref/dictionary.dll
+/home/hilal/Desktop/cSharp/dictionary/obj/Debug/net5.0/dictionary.pdb
+/home/hilal/Desktop/cSharp/dictionary/obj/Debug/net5.0/dictionary.genruntimeconfig.cache

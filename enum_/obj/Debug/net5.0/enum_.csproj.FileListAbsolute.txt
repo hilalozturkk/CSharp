@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/enum_/bin/Debug/net5.0/enum_
+/home/hilal/Desktop/cSharp/enum_/bin/Debug/net5.0/enum_.deps.json
+/home/hilal/Desktop/cSharp/enum_/bin/Debug/net5.0/enum_.runtimeconfig.json
+/home/hilal/Desktop/cSharp/enum_/bin/Debug/net5.0/enum_.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/enum_/bin/Debug/net5.0/enum_.dll
+/home/hilal/Desktop/cSharp/enum_/bin/Debug/net5.0/ref/enum_.dll
+/home/hilal/Desktop/cSharp/enum_/bin/Debug/net5.0/enum_.pdb
+/home/hilal/Desktop/cSharp/enum_/obj/Debug/net5.0/enum_.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/enum_/obj/Debug/net5.0/enum_.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/enum_/obj/Debug/net5.0/enum_.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/enum_/obj/Debug/net5.0/enum_.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/enum_/obj/Debug/net5.0/enum_.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/enum_/obj/Debug/net5.0/enum_.dll
+/home/hilal/Desktop/cSharp/enum_/obj/Debug/net5.0/ref/enum_.dll
+/home/hilal/Desktop/cSharp/enum_/obj/Debug/net5.0/enum_.pdb
+/home/hilal/Desktop/cSharp/enum_/obj/Debug/net5.0/enum_.genruntimeconfig.cache

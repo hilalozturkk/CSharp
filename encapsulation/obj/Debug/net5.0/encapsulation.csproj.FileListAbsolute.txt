@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/encapsulation/bin/Debug/net5.0/encapsulation
+/home/hilal/Desktop/cSharp/encapsulation/bin/Debug/net5.0/encapsulation.deps.json
+/home/hilal/Desktop/cSharp/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.json
+/home/hilal/Desktop/cSharp/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/encapsulation/bin/Debug/net5.0/encapsulation.dll
+/home/hilal/Desktop/cSharp/encapsulation/bin/Debug/net5.0/ref/encapsulation.dll
+/home/hilal/Desktop/cSharp/encapsulation/bin/Debug/net5.0/encapsulation.pdb
+/home/hilal/Desktop/cSharp/encapsulation/obj/Debug/net5.0/encapsulation.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/encapsulation/obj/Debug/net5.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/encapsulation/obj/Debug/net5.0/encapsulation.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/encapsulation/obj/Debug/net5.0/encapsulation.dll
+/home/hilal/Desktop/cSharp/encapsulation/obj/Debug/net5.0/ref/encapsulation.dll
+/home/hilal/Desktop/cSharp/encapsulation/obj/Debug/net5.0/encapsulation.pdb
+/home/hilal/Desktop/cSharp/encapsulation/obj/Debug/net5.0/encapsulation.genruntimeconfig.cache

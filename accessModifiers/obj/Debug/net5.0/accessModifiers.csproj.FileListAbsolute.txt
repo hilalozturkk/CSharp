@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/accessModifiers/bin/Debug/net5.0/accessModifiers
+/home/hilal/Desktop/cSharp/accessModifiers/bin/Debug/net5.0/accessModifiers.deps.json
+/home/hilal/Desktop/cSharp/accessModifiers/bin/Debug/net5.0/accessModifiers.runtimeconfig.json
+/home/hilal/Desktop/cSharp/accessModifiers/bin/Debug/net5.0/accessModifiers.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/accessModifiers/bin/Debug/net5.0/accessModifiers.dll
+/home/hilal/Desktop/cSharp/accessModifiers/bin/Debug/net5.0/ref/accessModifiers.dll
+/home/hilal/Desktop/cSharp/accessModifiers/bin/Debug/net5.0/accessModifiers.pdb
+/home/hilal/Desktop/cSharp/accessModifiers/obj/Debug/net5.0/accessModifiers.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/accessModifiers/obj/Debug/net5.0/accessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/accessModifiers/obj/Debug/net5.0/accessModifiers.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/accessModifiers/obj/Debug/net5.0/accessModifiers.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/accessModifiers/obj/Debug/net5.0/accessModifiers.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/accessModifiers/obj/Debug/net5.0/accessModifiers.dll
+/home/hilal/Desktop/cSharp/accessModifiers/obj/Debug/net5.0/ref/accessModifiers.dll
+/home/hilal/Desktop/cSharp/accessModifiers/obj/Debug/net5.0/accessModifiers.pdb
+/home/hilal/Desktop/cSharp/accessModifiers/obj/Debug/net5.0/accessModifiers.genruntimeconfig.cache

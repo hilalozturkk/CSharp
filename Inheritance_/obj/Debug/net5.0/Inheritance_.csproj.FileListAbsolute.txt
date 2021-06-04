@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/Inheritance_/bin/Debug/net5.0/Inheritance_
+/home/hilal/Desktop/cSharp/Inheritance_/bin/Debug/net5.0/Inheritance_.deps.json
+/home/hilal/Desktop/cSharp/Inheritance_/bin/Debug/net5.0/Inheritance_.runtimeconfig.json
+/home/hilal/Desktop/cSharp/Inheritance_/bin/Debug/net5.0/Inheritance_.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/Inheritance_/bin/Debug/net5.0/Inheritance_.dll
+/home/hilal/Desktop/cSharp/Inheritance_/bin/Debug/net5.0/ref/Inheritance_.dll
+/home/hilal/Desktop/cSharp/Inheritance_/bin/Debug/net5.0/Inheritance_.pdb
+/home/hilal/Desktop/cSharp/Inheritance_/obj/Debug/net5.0/Inheritance_.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/Inheritance_/obj/Debug/net5.0/Inheritance_.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/Inheritance_/obj/Debug/net5.0/Inheritance_.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/Inheritance_/obj/Debug/net5.0/Inheritance_.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/Inheritance_/obj/Debug/net5.0/Inheritance_.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/Inheritance_/obj/Debug/net5.0/Inheritance_.dll
+/home/hilal/Desktop/cSharp/Inheritance_/obj/Debug/net5.0/ref/Inheritance_.dll
+/home/hilal/Desktop/cSharp/Inheritance_/obj/Debug/net5.0/Inheritance_.pdb
+/home/hilal/Desktop/cSharp/Inheritance_/obj/Debug/net5.0/Inheritance_.genruntimeconfig.cache

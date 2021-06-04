@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/bin/Debug/net5.0/staticSinifveUyeler
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/bin/Debug/net5.0/staticSinifveUyeler.deps.json
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/bin/Debug/net5.0/staticSinifveUyeler.runtimeconfig.json
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/bin/Debug/net5.0/staticSinifveUyeler.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/bin/Debug/net5.0/staticSinifveUyeler.dll
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/bin/Debug/net5.0/ref/staticSinifveUyeler.dll
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/bin/Debug/net5.0/staticSinifveUyeler.pdb
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/obj/Debug/net5.0/staticSinifveUyeler.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/obj/Debug/net5.0/staticSinifveUyeler.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/obj/Debug/net5.0/staticSinifveUyeler.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/obj/Debug/net5.0/staticSinifveUyeler.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/obj/Debug/net5.0/staticSinifveUyeler.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/obj/Debug/net5.0/staticSinifveUyeler.dll
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/obj/Debug/net5.0/ref/staticSinifveUyeler.dll
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/obj/Debug/net5.0/staticSinifveUyeler.pdb
+/home/hilal/Desktop/cSharp/staticSinifveUyeler/obj/Debug/net5.0/staticSinifveUyeler.genruntimeconfig.cache

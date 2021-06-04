@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/struct_/bin/Debug/net5.0/struct_
+/home/hilal/Desktop/cSharp/struct_/bin/Debug/net5.0/struct_.deps.json
+/home/hilal/Desktop/cSharp/struct_/bin/Debug/net5.0/struct_.runtimeconfig.json
+/home/hilal/Desktop/cSharp/struct_/bin/Debug/net5.0/struct_.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/struct_/bin/Debug/net5.0/struct_.dll
+/home/hilal/Desktop/cSharp/struct_/bin/Debug/net5.0/ref/struct_.dll
+/home/hilal/Desktop/cSharp/struct_/bin/Debug/net5.0/struct_.pdb
+/home/hilal/Desktop/cSharp/struct_/obj/Debug/net5.0/struct_.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/struct_/obj/Debug/net5.0/struct_.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/struct_/obj/Debug/net5.0/struct_.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/struct_/obj/Debug/net5.0/struct_.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/struct_/obj/Debug/net5.0/struct_.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/struct_/obj/Debug/net5.0/struct_.dll
+/home/hilal/Desktop/cSharp/struct_/obj/Debug/net5.0/ref/struct_.dll
+/home/hilal/Desktop/cSharp/struct_/obj/Debug/net5.0/struct_.pdb
+/home/hilal/Desktop/cSharp/struct_/obj/Debug/net5.0/struct_.genruntimeconfig.cache

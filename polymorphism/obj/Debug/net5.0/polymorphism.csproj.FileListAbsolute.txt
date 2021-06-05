@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/polymorphism/bin/Debug/net5.0/polymorphism
+/home/hilal/Desktop/cSharp/polymorphism/bin/Debug/net5.0/polymorphism.deps.json
+/home/hilal/Desktop/cSharp/polymorphism/bin/Debug/net5.0/polymorphism.runtimeconfig.json
+/home/hilal/Desktop/cSharp/polymorphism/bin/Debug/net5.0/polymorphism.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/polymorphism/bin/Debug/net5.0/polymorphism.dll
+/home/hilal/Desktop/cSharp/polymorphism/bin/Debug/net5.0/ref/polymorphism.dll
+/home/hilal/Desktop/cSharp/polymorphism/bin/Debug/net5.0/polymorphism.pdb
+/home/hilal/Desktop/cSharp/polymorphism/obj/Debug/net5.0/polymorphism.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/polymorphism/obj/Debug/net5.0/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/polymorphism/obj/Debug/net5.0/polymorphism.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/polymorphism/obj/Debug/net5.0/polymorphism.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/polymorphism/obj/Debug/net5.0/polymorphism.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/polymorphism/obj/Debug/net5.0/polymorphism.dll
+/home/hilal/Desktop/cSharp/polymorphism/obj/Debug/net5.0/ref/polymorphism.dll
+/home/hilal/Desktop/cSharp/polymorphism/obj/Debug/net5.0/polymorphism.pdb
+/home/hilal/Desktop/cSharp/polymorphism/obj/Debug/net5.0/polymorphism.genruntimeconfig.cache

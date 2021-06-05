@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/interface/bin/Debug/net5.0/interface
+/home/hilal/Desktop/cSharp/interface/bin/Debug/net5.0/interface.deps.json
+/home/hilal/Desktop/cSharp/interface/bin/Debug/net5.0/interface.runtimeconfig.json
+/home/hilal/Desktop/cSharp/interface/bin/Debug/net5.0/interface.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/interface/bin/Debug/net5.0/interface.dll
+/home/hilal/Desktop/cSharp/interface/bin/Debug/net5.0/ref/interface.dll
+/home/hilal/Desktop/cSharp/interface/bin/Debug/net5.0/interface.pdb
+/home/hilal/Desktop/cSharp/interface/obj/Debug/net5.0/interface.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/interface/obj/Debug/net5.0/interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/interface/obj/Debug/net5.0/interface.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/interface/obj/Debug/net5.0/interface.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/interface/obj/Debug/net5.0/interface.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/interface/obj/Debug/net5.0/interface.dll
+/home/hilal/Desktop/cSharp/interface/obj/Debug/net5.0/ref/interface.dll
+/home/hilal/Desktop/cSharp/interface/obj/Debug/net5.0/interface.pdb
+/home/hilal/Desktop/cSharp/interface/obj/Debug/net5.0/interface.genruntimeconfig.cache

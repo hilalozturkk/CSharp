@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/Interface_ornek/bin/Debug/net5.0/Interface_ornek
+/home/hilal/Desktop/cSharp/Interface_ornek/bin/Debug/net5.0/Interface_ornek.deps.json
+/home/hilal/Desktop/cSharp/Interface_ornek/bin/Debug/net5.0/Interface_ornek.runtimeconfig.json
+/home/hilal/Desktop/cSharp/Interface_ornek/bin/Debug/net5.0/Interface_ornek.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/Interface_ornek/bin/Debug/net5.0/Interface_ornek.dll
+/home/hilal/Desktop/cSharp/Interface_ornek/bin/Debug/net5.0/ref/Interface_ornek.dll
+/home/hilal/Desktop/cSharp/Interface_ornek/bin/Debug/net5.0/Interface_ornek.pdb
+/home/hilal/Desktop/cSharp/Interface_ornek/obj/Debug/net5.0/Interface_ornek.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/Interface_ornek/obj/Debug/net5.0/Interface_ornek.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/Interface_ornek/obj/Debug/net5.0/Interface_ornek.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/Interface_ornek/obj/Debug/net5.0/Interface_ornek.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/Interface_ornek/obj/Debug/net5.0/Interface_ornek.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/Interface_ornek/obj/Debug/net5.0/Interface_ornek.dll
+/home/hilal/Desktop/cSharp/Interface_ornek/obj/Debug/net5.0/ref/Interface_ornek.dll
+/home/hilal/Desktop/cSharp/Interface_ornek/obj/Debug/net5.0/Interface_ornek.pdb
+/home/hilal/Desktop/cSharp/Interface_ornek/obj/Debug/net5.0/Interface_ornek.genruntimeconfig.cache

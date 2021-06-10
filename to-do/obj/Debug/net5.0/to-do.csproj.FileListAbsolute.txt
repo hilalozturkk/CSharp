@@ -1,0 +1,16 @@
+/home/hilal/Desktop/cSharp/to-do/bin/Debug/net5.0/to-do
+/home/hilal/Desktop/cSharp/to-do/bin/Debug/net5.0/to-do.deps.json
+/home/hilal/Desktop/cSharp/to-do/bin/Debug/net5.0/to-do.runtimeconfig.json
+/home/hilal/Desktop/cSharp/to-do/bin/Debug/net5.0/to-do.runtimeconfig.dev.json
+/home/hilal/Desktop/cSharp/to-do/bin/Debug/net5.0/to-do.dll
+/home/hilal/Desktop/cSharp/to-do/bin/Debug/net5.0/ref/to-do.dll
+/home/hilal/Desktop/cSharp/to-do/bin/Debug/net5.0/to-do.pdb
+/home/hilal/Desktop/cSharp/to-do/obj/Debug/net5.0/to-do.csprojAssemblyReference.cache
+/home/hilal/Desktop/cSharp/to-do/obj/Debug/net5.0/to-do.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/cSharp/to-do/obj/Debug/net5.0/to-do.AssemblyInfoInputs.cache
+/home/hilal/Desktop/cSharp/to-do/obj/Debug/net5.0/to-do.AssemblyInfo.cs
+/home/hilal/Desktop/cSharp/to-do/obj/Debug/net5.0/to-do.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/cSharp/to-do/obj/Debug/net5.0/to-do.dll
+/home/hilal/Desktop/cSharp/to-do/obj/Debug/net5.0/ref/to-do.dll
+/home/hilal/Desktop/cSharp/to-do/obj/Debug/net5.0/to-do.pdb
+/home/hilal/Desktop/cSharp/to-do/obj/Debug/net5.0/to-do.genruntimeconfig.cache
